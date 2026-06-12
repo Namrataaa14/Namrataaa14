@@ -17,32 +17,34 @@
 
 ---
 
-## ▸ Executive Summary
+## <p align="center">▸ Executive Summary</p>
 
-> **Bridging the gap between execution-level engineering and search engine marketability.**
-> 
-> I build technical architectures that don't just run flawlessly—they rank effortlessly. By fusing cross-platform application development with advanced search visibility strategy, I analyze digital footprints from the database structure right up to the user query intent. 
+<p align="center">
+  <img src="https://img.shields.io/badge/CORE--MISSION-BRIDGING%20ENGINEERING%20%26%20SEARCH%20MARKETABILITY-0A9396?style=for-the-badge" alt="Core Mission Banner" />
+</p>
 
-Whether diagnosing technical crawl budgets, engineering responsive backends, or automating deployment pipelines, I build with two clear goals in mind: **uncompromising performance** and **maximum visibility.**
+> <p align="center">I build technical architectures that don't just run flawlessly—they rank effortlessly. By fusing cross-platform application development with advanced search visibility strategy, I analyze digital footprints from the database structure right up to the user query intent.</p>
+>
+> <p align="center">Whether diagnosing technical crawl budgets, engineering responsive backends, or automating deployment pipelines, I build with two clear goals in mind: <strong>uncompromising performance</strong> and <strong>maximum visibility.</strong></p>
 
 ---
 
-## ▸ Technical Architecture
+## <p align="center">▸ Technical Architecture</p>
 
-### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/device-mobile-16.svg" width="18" height="18" /> Frontend & Mobile Development
-<p align="left">
+### <p align="center"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/device-mobile-16.svg" width="18" height="18" /> Frontend & Mobile Development</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
 </p>
 
-### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/database-16.svg" width="18" height="18" /> Backend & Database Engineering
-<p align="left">
+### <p align="center"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/database-16.svg" width="18" height="18" /> Backend & Database Engineering</p>
+<p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/graph-16.svg" width="18" height="18" /> Search Engine Optimization (SEO)
-<p align="left">
+### <p align="center"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/graph-16.svg" width="18" height="18" /> Search Engine Optimization (SEO)</p>
+<p align="center">
   <img src="https://img.shields.io/badge/On--Page%20SEO-005F73?style=for-the-badge" alt="On Page SEO" />
   <img src="https://img.shields.io/badge/Off--Page%20SEO-0A9396?style=for-the-badge" alt="Off Page SEO" />
   <img src="https://img.shields.io/badge/Technical%20SEO-94D2BD?style=for-the-badge&logoColor=black" alt="Technical SEO" />
@@ -50,22 +52,22 @@ Whether diagnosing technical crawl budgets, engineering responsive backends, or 
   <img src="https://img.shields.io/badge/SEO%20Auditing-CA6702?style=for-the-badge" alt="SEO Auditing" />
 </p>
 
-### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/report-16.svg" width="18" height="18" /> Analytics & Platforms
-<p align="left">
+### <p align="center"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/report-16.svg" width="18" height="18" /> Analytics & Platforms</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Google Analytics" />
   <img src="https://img.shields.io/badge/Search%20Console-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Search Console" />
   <img src="https://img.shields.io/badge/Ubersuggest-F26522?style=for-the-badge" alt="Ubersuggest" />
 </p>
 
-### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/terminal-16.svg" width="18" height="18" /> Workflow & Version Control
-<p align="left">
+### <p align="center"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/terminal-16.svg" width="18" height="18" /> Workflow & Version Control</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 ---
 
-## ▸ GitHub Analytics
+## <p align="center">▸ GitHub Analytics</p>
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=Namrataaa14&show_icons=true&theme=dark&count_private=true&hide_border=true" height="160" alt="Namrata's GitHub Stats" />
@@ -78,7 +80,7 @@ Whether diagnosing technical crawl budgets, engineering responsive backends, or 
 
 ---
 
-## ▸ Contribution Activity
+## <p align="center">▸ Contribution Activity</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Namrataaa14&theme=github-dark&hide_border=true" width="100%" alt="Namrata's Contribution Graph" />
@@ -86,6 +88,6 @@ Whether diagnosing technical crawl budgets, engineering responsive backends, or 
 
 ---
 
-## ▸ Core Principles
+## <p align="center">▸ Core Principles</p>
 
-> “Build. Learn. Improve. Repeat.”
+> <p align="center">“Build. Learn. Improve. Repeat.”</p>
