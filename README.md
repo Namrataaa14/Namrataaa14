@@ -23,8 +23,8 @@ A passionate student developer focused on building practical, real-world applica
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-eight.vercel.app/api?username=Namrataaa14&show_icons=true&theme=dark&count_private=true&hide_border=true" height="160" alt="Namrata's GitHub Stats" />
-  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=Namrataaa14&layout=compact&theme=dark&hide_border=true" height="160" alt="Namrata's Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Namrataaa14&show_icons=true&theme=dark&count_private=true&hide_border=true" height="160" alt="Namrata's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Namrataaa14&layout=compact&theme=dark&hide_border=true" height="160" alt="Namrata's Top Languages" />
 </p>
 
 <p align="center">
