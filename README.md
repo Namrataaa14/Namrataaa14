@@ -31,19 +31,19 @@
 
 ## <p align="center">▸ Technical Architecture</p>
 
-### <p align="center"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/device-mobile-16.svg" width="18" height="18" /> Frontend & Mobile Development</p>
+### <p align="center">Frontend & Mobile Development</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
 </p>
 
-### <p align="center"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/database-16.svg" width="18" height="18" /> Backend & Database Engineering</p>
+### <p align="center">Backend & Database Engineering</p>
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-### <p align="center"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/graph-16.svg" width="18" height="18" /> Search Engine Optimization (SEO)</p>
+### <p align="center">Search Engine Optimization (SEO)</p>
 <p align="center">
   <img src="https://img.shields.io/badge/On--Page%20SEO-005F73?style=for-the-badge" alt="On Page SEO" />
   <img src="https://img.shields.io/badge/Off--Page%20SEO-0A9396?style=for-the-badge" alt="Off Page SEO" />
@@ -52,14 +52,14 @@
   <img src="https://img.shields.io/badge/SEO%20Auditing-CA6702?style=for-the-badge" alt="SEO Auditing" />
 </p>
 
-### <p align="center"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/report-16.svg" width="18" height="18" /> Analytics & Platforms</p>
+### <p align="center">Analytics & Platforms</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Google Analytics" />
   <img src="https://img.shields.io/badge/Search%20Console-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Search Console" />
   <img src="https://img.shields.io/badge/Ubersuggest-F26522?style=for-the-badge" alt="Ubersuggest" />
 </p>
 
-### <p align="center"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/terminal-16.svg" width="18" height="18" /> Workflow & Version Control</p>
+### <p align="center">Workflow & Version Control</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
