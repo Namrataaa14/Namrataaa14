@@ -4,19 +4,12 @@ A passionate student developer focused on building practical, real-world applica
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Ecosystem
 
-### Frontend & Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-
-### Backend & Databases
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### Tools & Version Control
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+| 📱 Frontend & Mobile | 🖥️ Backend & Databases | ⚙️ Workflow & Tools |
+| :---: | :---: | :---: |
+| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 
 ---
 
@@ -45,8 +38,8 @@ A passionate student developer focused on building practical, real-world applica
 
 Let's chat about mobile dev, open-source, or potential collaborations!
 
-- **LinkedIn:** [linkedin.com/in/your-profile-url](https://www.linkedin.com/in/YOUR_LINKEDIN) 👈 *Swap with your real link!*
-- **TikTok:** [@your_username](https://www.tiktok.com/@YOUR_TIKTOK) 👈 *Swap with your real link!*
+- **LinkedIn:** [Namrata Bastola](https://www.linkedin.com/in/namrata-bastola-936823364)
+- **TikTok:** [@namrataverse](https://www.tiktok.com/@namrataverse)
 
 ---
 
