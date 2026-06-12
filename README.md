@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=F8F9FA&center=true&vCenter=true&width=600&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Namrata+Bastola.;Software+Developer.;SEO+Analyst+%26+Strategist.;Building+%26+Optimizing+for+the+Web." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=F8F9FA&center=true&vCenter=true&width=400&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Namrata+Bastola.;Software+Developer.;SEO+Analyst+%26+Strategist.;Building+%26+Optimizing." alt="Typing SVG" />
 </p>
 
-<p align="center">
+<p align="center" style="max-width: 100%; word-wrap: break-word;">
   <strong>An engineering-focused developer and search optimization analyst specializing in high-performance digital architectures.</strong>
 </p>
 
@@ -23,9 +23,9 @@
   <img src="https://img.shields.io/badge/CORE--MISSION-BRIDGING%20ENGINEERING%20%26%20SEARCH%20MARKETABILITY-0A9396?style=for-the-badge" alt="Core Mission Banner" />
 </p>
 
-> <p align="center">I build technical architectures that don't just run flawlessly—they rank effortlessly. By fusing cross-platform application development with advanced search visibility strategy, I analyze digital footprints from the database structure right up to the user query intent.</p>
+> <p align="center" style="max-width: 100%; word-wrap: break-word;">I build technical architectures that don't just run flawlessly—they rank effortlessly. By fusing cross-platform application development with advanced search visibility strategy, I analyze digital footprints from the database structure right up to the user query intent.</p>
 >
-> <p align="center">Whether diagnosing technical crawl budgets, engineering responsive backends, or automating deployment pipelines, I build with two clear goals in mind: <strong>uncompromising performance</strong> and <strong>maximum visibility.</strong></p>
+> <p align="center" style="max-width: 100%; word-wrap: break-word;">Whether diagnosing technical crawl budgets, engineering responsive backends, or automating deployment pipelines, I build with two clear goals in mind: <strong>uncompromising performance</strong> and <strong>maximum visibility.</strong></p>
 
 ---
 
@@ -90,4 +90,4 @@
 
 ## <p align="center">▸ Core Principles</p>
 
-> <p align="center">“Build. Learn. Improve. Repeat.”</p>
+<blockquote><p align="center">“Build. Learn. Improve. Repeat.”</p></blockquote>
