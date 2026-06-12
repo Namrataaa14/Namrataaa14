@@ -23,12 +23,12 @@ A passionate student developer focused on building practical, real-world applica
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Namrataaa14&show_icons=true&theme=visual_studio_dark&hide_border=true" height="160" alt="Namrata's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Namrataaa14&layout=compact&theme=visual_studio_dark&hide_border=true" height="160" alt="Namrata's Top Languages" />
+  <img src="https://github-readme-stats-eight.vercel.app/api?username=Namrataaa14&show_icons=true&theme=dark&count_private=true&hide_border=true" height="160" alt="Namrata's GitHub Stats" />
+  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=Namrataaa14&layout=compact&theme=dark&hide_border=true" height="160" alt="Namrata's Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Namrataaa14&theme=visual_studio_dark&hide_border=true" alt="Namrata's Contribution Streak" />
+  <img src="https://streak-stats.demolab.com?user=Namrataaa14&theme=dark&count_private=true&hide_border=true" alt="Namrata's Contribution Streak" />
 </p>
 
 ---
@@ -36,7 +36,7 @@ A passionate student developer focused on building practical, real-world applica
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Namrataaa14&theme=react-dark&hide_border=true" width="100%" alt="Namrata's Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Namrataaa14&theme=github-dark&hide_border=true" width="100%" alt="Namrata's Contribution Graph" />
 </p>
 
 ---
@@ -45,8 +45,8 @@ A passionate student developer focused on building practical, real-world applica
 
 Let's chat about mobile dev, open-source, or potential collaborations!
 
-- **LinkedIn:** [linkedin.com/in/your-profile-url](https://www.linkedin.com/in/YOUR_LINKEDIN) 👈 *Update this link!*
-- **TikTok:** [@your_username](https://www.tiktok.com/@YOUR_TIKTOK) 👈 *Update this link!*
+- **LinkedIn:** [linkedin.com/in/your-profile-url](https://www.linkedin.com/in/YOUR_LINKEDIN) 👈 *Swap with your real link!*
+- **TikTok:** [@your_username](https://www.tiktok.com/@YOUR_TIKTOK) 👈 *Swap with your real link!*
 
 ---
 
