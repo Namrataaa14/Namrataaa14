@@ -23,30 +23,45 @@
 > 
 > I build technical architectures that don't just run flawlessly—they rank effortlessly. By fusing cross-platform application development with advanced search visibility strategy, I analyze digital footprints from the database structure right up to the user query intent. 
 
-Whether diagnosing technical crawl budgets, engineering responsive backends, or deployment pipeline automation, I build with two clear goals in mind: **uncompromising performance** and **maximum visibility.**
+Whether diagnosing technical crawl budgets, engineering responsive backends, or automating deployment pipelines, I build with two clear goals in mind: **uncompromising performance** and **maximum visibility.**
 
 ---
 
 ## ▸ Technical Architecture
 
-| 📱 Mobile & Frontend | 🖥️ Backend & Core Engineering |
-| :--- | :--- |
-| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
-| • Cross-Platform UI Architecture<br>• State Management & Performance Optimization | • Secure REST APIs & System Routing<br>• Database Schema Optimization & Query Tuning |
+### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/device-mobile-16.svg" width="18" height="18" /> Frontend & Mobile Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+</p>
 
-<br>
+### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/database-16.svg" width="18" height="18" /> Backend & Database Engineering
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
 
-| 📈 Search Engine Optimization (SEO) | 📊 Analytics & Framework Platforms |
-| :--- | :--- |
-| ![Technical SEO](https://img.shields.io/badge/Technical%20SEO-94D2BD?style=for-the-badge&logoColor=black) ![On-Page](https://img.shields.io/badge/On--Page%20SEO-005F73?style=for-the-badge) ![Off-Page](https://img.shields.io/badge/Off--Page%20SEO-0A9396?style=for-the-badge) | ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white) ![Search Console](https://img.shields.io/badge/Search%20Console-4285F4?style=for-the-badge&logo=google&logoColor=white) ![Ubersuggest](https://img.shields.io/badge/Ubersuggest-F26522?style=for-the-badge) |
-| • Architecture Auditing & Indexation Control<br>• Advanced Keyword Research & SERP Optimization | • Traffic Behavioral Insights & Funnel Auditing<br>• Performance Diagnostics & Visibility Metrics |
+### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/graph-16.svg" width="18" height="18" /> Search Engine Optimization (SEO)
+<p align="left">
+  <img src="https://img.shields.io/badge/On--Page%20SEO-005F73?style=for-the-badge" alt="On Page SEO" />
+  <img src="https://img.shields.io/badge/Off--Page%20SEO-0A9396?style=for-the-badge" alt="Off Page SEO" />
+  <img src="https://img.shields.io/badge/Technical%20SEO-94D2BD?style=for-the-badge&logoColor=black" alt="Technical SEO" />
+  <img src="https://img.shields.io/badge/Keyword%20Research-EE9B00?style=for-the-badge" alt="Keyword Research" />
+  <img src="https://img.shields.io/badge/SEO%20Auditing-CA6702?style=for-the-badge" alt="SEO Auditing" />
+</p>
 
-<br>
+### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/report-16.svg" width="18" height="18" /> Analytics & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Google Analytics" />
+  <img src="https://img.shields.io/badge/Search%20Console-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Search Console" />
+  <img src="https://img.shields.io/badge/Ubersuggest-F26522?style=for-the-badge" alt="Ubersuggest" />
+</p>
 
-| ⚙️ Infrastructure & Workflow |
-| :--- |
-| ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
-| • Version Isolation & Gitflow Management<br>• Agile Document Pipelines & Clean Deployment Habit |
+### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/terminal-16.svg" width="18" height="18" /> Workflow & Version Control
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
 ---
 
